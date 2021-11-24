@@ -2,7 +2,8 @@
     <img src="https://ik.imagekit.io/qyqo1wmqd9zf/trilha_back-end_8JqpF4kLDZ.png?updatedAt=1637762230621">
 </h1>
 
-## 💬 VCS (Version Control System)
+<h1 align="center">DESAFIO 1</h1>
+<p align="center">💬 VCS (Version Control System)</p>
 
 ## Com suas palavras defina o que é um sistema de controle de versões (VCS)?
 O VCS(Version Control System) é um sistema, como o nome diz, com o objetivo de controlar o versionamento. Através do VCS é possível criar um sistema aos poucos,com pequenas implementações e disponibilizando em um repositório principal, permitindo assim, o trabalho em equipe, o controle de versionamento, a rastreabilidade (identificar se em algum ponto do projeto alguma implementação comprometeu o sistema). Sem o VCS o controle de versões seriam feitos localmente em uma pasta, não sendo muito seguro, o que poderia comprometer o trabalho de semanas, meses com uma simples tela azul
@@ -23,4 +24,31 @@ O VCS(Version Control System) é um sistema, como o nome diz, com o objetivo de 
 GitLab, GitHub, BitBucket
 
 
+<h1 align="center">DESAFIO 2</h1>
+<p align="center">💬 POO (Programação Orientada a Objetos)</p>
 
+## Com suas palavras defina o que é programação orientada a objetos (POO) e cite seus pilares?
+O conceito de programação orientada a objetos (POO) teve como um dos seus criadores o matemático e biólogo, Alan Kay, e o conceito de POO é justamente extrair pra nossa realidade os problemas apresentados, citando assim um dos pilares a abstração que consiste em utilizar apenas das informações necessárias naquele problema em específico. O encapsulamento consiste em justamente encapsular as informações de um objeto, deixando restrito seu acesso da forma que achar necessário, uma forma de acessar seria com métodos especiais (getters e setters), o pilar da herança é justamente herdar de uma classe pai seus atributos, assim como na genética, fazendo um paralelo a biologia, e o pilar do polimorfismo é sobrescrever um método herdado, alterando seu comportamento.
+
+## Exemplifique e explique um cenário de abstração;
+Um cenário em que se utiliza da abstração seria na hora de entender as necessidades de um cliente ex.: para um cadastro de um aluno de uma escola por exemplo seria interessante os atributos: nome, data de nascimento, nome da mãe e etc, para um aluno de academia seria interessante também incluir o peso nesses dados, visto que na academia vamos com objetivos específicos.
+
+## Exemplifique e explique um cenário de encapsulamento;
+O encapsulamento pode ser exemplificado em tudo que há algo a proteger dentro de uma casca ex.: O controle remoto da TV, dentro do controle, há componentes que podem ser prejudiciais tanto para nós, quanto para o funcionamento do controle se tivéssemos o acesso direto, então, é feito o encapsulamento, e os botões servem como métodos acessores.
+
+## Exemplifique e explique um cenário de herança;
+A herança podemos verificar em nossa própria genética, herdamos características e atributos que herdamos de nossos pais, e na programação orientada a objetos acontece da mesma forma.
+
+## Exemplifique e explique um cenário de polimorfismo;
+O polimorfismo é a possibilidade de dois objetos, de duas classes diferentes acessarem o mesmo método ex.: Um carro e um veiculo, os dois conseguem acelerar, porem aceleram de formas diferentes, essa diferença é o comportamento alterado, sendo o polimorfismo.
+
+## Cite 5 vantagens da POO;
+1️⃣ O POO permite abstrair para o mundo real, deixando assim mais fácil a resolução dos problemas e sua lógica.
+
+2️⃣ Reutilização, é possível criar métodos que podem ser reaproveitados em diversos cenários, deixando mais rápido a codificação.
+
+3️⃣ Fácil manutenção.
+
+4️⃣ Diversas ferramentas para auxiliar desde o desenvolvimento até a etapa de testes.
+
+5️⃣ Fácil depuração.
