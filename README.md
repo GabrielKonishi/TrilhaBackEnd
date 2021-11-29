@@ -52,3 +52,36 @@ O polimorfismo é a possibilidade de dois objetos, de duas classes diferentes ac
 4️⃣ Diversas ferramentas para auxiliar desde o desenvolvimento até a etapa de testes.
 
 5️⃣ Fácil depuração.
+
+
+<h1 align="center">DESAFIO 3</h1>
+<p align="center">💬 Protocolos de comunicação</p>
+
+##Com suas palavras defina:
+<h3>
+    1️⃣ O que é o protocolo de comunicação HTTP e como ele funciona;
+</h3>
+    O protocolo de comunicação http (hypertext transfer protocol) é a comunicação que permite mandar uma url como requisição de e ter como resposta o hyper texto da página solicitada. Sendo muito popular sua resposta quando uma página não é encontrada o famoso 404 NOT FOUND.
+
+<h3>
+    2️⃣ O que é REST, e qual é a sua relação com o protocolo HTTP;
+</h3>
+    O REST (Representational State Transfer) é uma arquitetura que define as características fundamentais para o desenvolvimento de aplicações web. O rest se utiliza de métodos https para realizar alguma ação na url requisitada
+
+<h3>
+    3️⃣ O que é Web API, e qual é a sua relação com REST;
+</h3>
+    A web api é uma interface de programação de aplicações, a api da parte de servidor é aonde ficam diversos points que é aonde estão mapeados as urls que serão passados como requisição REST.
+
+##Liste todos os métodos de solicitações HTTP utilizados pelo padrão REST e suas respectivas finalidades;
+    
+1️⃣ GET - utilizado para recuperar um valor do servidor, fazer uma listagem ou pegar uma informação em especifico.
+
+2️⃣ POST - utilizado para  inserir valores em um servidor utilizado geralmente para fazer o cadastro.
+
+3️⃣ PUT - utilizado para atualizar os valores que já estão cadastrados.
+
+4️⃣ DELETE - utilizado para deletar algum valor ou vários valores previamente cadastrados
+
+
+
